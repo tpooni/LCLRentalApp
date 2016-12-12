@@ -1,0 +1,81 @@
+<WISEJOB JobNo="4252824">
+  <m_jobid>JS14101416303886100052</m_jobid>
+  <m_ShipTo>LX101016</m_ShipTo>
+  <m_JobType>WISDM</m_JobType>
+  <m_softwareid>6955</m_softwareid>
+  <m_softwareVer>16646440</m_softwareVer>
+  <m_softwaredesc />
+  <m_includeid>128738</m_includeid>
+  <m_includeVer>131073</m_includeVer>
+  <m_jobno>4252824</m_jobno>
+  <m_jobdatetime>6/25/2015 7:00:00 AM</m_jobdatetime>
+  <m_storeno>01016</m_storeno>
+  <m_custno>000361</m_custno>
+  <m_officeno>7813</m_officeno>
+  <m_custprecallnotes>Pre-inventory call for all stores two (2) to four (4) weeks prior to a scheduled count date.</m_custprecallnotes>
+  <m_precallreq>True</m_precallreq>
+  <m_mor>
+  </m_mor>
+  <m_storeentry>
+  </m_storeentry>
+  <m_entrynotes>
+  </m_entrynotes>
+  <m_opnotes>Rental Totals at Validation:
+L - 11,730
+Qty - 137,135
+TrueQty - 149,248
+$749,494
+
+35410</m_opnotes>
+  <m_isimported>True</m_isimported>
+  <m_CPHrequired>True</m_CPHrequired>
+  <m_CPHfactor>0.00159</m_CPHfactor>
+  <m_isOldJob>False</m_isOldJob>
+  <m_connStr>Provider=Microsoft.Jet.OLEDB.4.0;Data Source="C:\WISDOM\SYS\WISEJOBS.MDB";Jet OLEDB:Database Password=mdbadmin</m_connStr>
+  <m_name>LOBLAWS #1016 FULL</m_name>
+  <m_addr>3040 WONDERLAND ROAD SOUTH</m_addr>
+  <m_City>LONDON</m_City>
+  <m_prov>ON</m_prov>
+  <m_country>
+  </m_country>
+  <m_postal>N6L 1A6</m_postal>
+  <m_phone>5196680719</m_phone>
+  <m_fax>
+  </m_fax>
+  <m_email>
+  </m_email>
+  <m_notes>&gt;====== Comment Record Modified Time ======&lt;
+
+&gt;====== Comments ======&lt;
+
+&gt;====== Fee Record Modified Time ======&lt;
+11/18/2014 11:10:52 AM
+&gt;====== Fees ======&lt;
+10/9/2014 12:18 PM MILEAGE 0.00
+10/9/2014 12:18 PM 552.00 TRV
+10/9/2014 12:18 PM 0.00 PIE (ALE)
+10/9/2014 12:18 PM 0.00 TRV (SR)
+10/9/2014 12:18 PM 0.00 HR (RX27)
+10/9/2014 12:18 PM 0.00 HR (PPREP)
+10/9/2014 12:18 PM 0.00 HR (AH)
+10/9/2014 12:18 PM 1.00 M$R (SCANNED)
+10/9/2014 12:18 PM 0.00 MINFEE
+10/9/2014 12:18 PM 0.00 M$R (PRCNT)
+10/9/2014 12:18 PM 0.00 HR (PRSH)
+10/9/2014 12:18 PM 0.00 HR (CLEARANC)
+10/9/2014 12:18 PM 0.00 HR (DELAY)
+10/9/2014 12:18 PM 174.00 HR
+10/9/2014 12:18 PM 166.80 HR (CMBR)
+10/9/2014 12:18 PM 7.20 HR (CMGR)
+10/9/2014 12:18 PM 4,631,582.94 M$R
+10/9/2014 12:18 PM 3,298,748.74 M$R (SF)
+10/9/2014 12:18 PM 339,700.53 M$R (SR)
+11/19/2014 1:24 PM 0.00 PIE
+10/9/2014 12:18 PM 564,697.00 PIE (SF)
+10/9/2014 12:18 PM 91,050.00 PIE (SR)
+10/9/2014 12:18 PM 0.00 REC
+10/9/2014 12:18 PM 0.00 REC (SF)
+10/9/2014 12:18 PM 0.00 REC (SR)
+10/9/2014 12:18 PM 0.00 TERM
+10/9/2014 12:18 PM 0.00 THR</m_notes>
+</WISEJOB>
